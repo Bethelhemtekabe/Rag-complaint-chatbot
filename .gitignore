@@ -1,2 +1,8 @@
 .venv
 /Data
+#Ignore local test scripts
+task2_test.py
+Untitled.ipynb
+
+# Ignore the massive local vector database folder
+complaints_chroma_db/
